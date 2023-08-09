@@ -1,0 +1,180 @@
+/* 
+  Name: Bridget Yang
+  CS 132 Spring 2023
+  Date: May 24, 2023
+
+  This is the styles.css page for my student clothing e-commerce website.
+  The design is simple, modern, chic, and consistent.
+*/
+
+body, #add-cart-btn, #submit-btn, #contact-form input,
+#contact-form textarea {
+  font-family: Roboto Mono;
+}
+
+#cart, footer, #search, #back-home-icon {
+  position: fixed;
+}
+
+#cart {
+  height: 60px;
+  right: 40px;
+}
+
+#back-home-icon {
+  height: 40px;
+  left: 60px;
+  top: 60px;
+}
+
+#cart, #search {
+  top: 30px;
+}
+
+#search {
+  right: 140px;
+}
+
+#search > p {
+  margin-right: 10px;
+}
+
+h1 {
+  font-size: 55px;
+}
+
+h1, h2, #submit-btn {
+  letter-spacing: .15em;
+}
+
+h1, #promotions > h2, #faq > h2, 
+#contact-header, #submitted-message {
+  justify-content: center;
+  margin: 41px;
+}
+
+#promotions, #faq, .product, #cart-content {
+  text-align: center;
+}
+
+main > p {
+  font-size: 19px;
+}
+
+main > p:hover, #submit-btn:hover, #add-cart-btn:hover,
+#cart-content > input[type=submit]:hover {
+  /* Inspired by: https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient */
+  background: linear-gradient(90deg,#e66465,#9198e5);
+}
+
+main > p, #search {
+  max-width: fit-content;
+}
+
+footer {
+  bottom: 0;
+  left: 10px;
+}
+
+.other-page {
+  flex-direction: row;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+main > p {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1, #search, #products, .product-desc, #single-product-info,
+.other-page, #contact-form {
+  align-items: center;
+}
+
+#promotoions, h1, #search, #products, .product-desc,
+#single-product-info, .other-page, #promotions > h2, #faq > h2,
+#contact-header, #contact-form, #contact-form > div, 
+#submitted-message {
+  display: flex;
+}
+
+#products {
+  justify-content: space-between;
+}
+
+.product {
+  display: block;
+  margin: 22px;
+}
+
+.product-img {
+  width: 50%;
+  height: auto;
+}
+
+.product-desc, #single-product-info {
+  justify-content: space-evenly;
+}
+
+.product-desc > p, #contact-form > div {
+  margin: 20px;
+}
+
+#faq > div, #promotions > div {
+  margin: 39px;
+}
+
+#add-cart-btn {
+  width: 300px;
+}
+
+#add-cart-btn, #submit-btn, 
+#cart-content > input[type=submit] {
+  background-color: white;
+}
+
+#cart-content > input[type=submit] {
+  width: 40px;
+  margin-left: 7px;
+  margin-right: 7px;
+  padding: 5px;
+  margin-bottom: 50px;
+}
+
+#add-cart-btn, #submit-btn {
+  padding: 12px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a, a:visited {
+  color: black;
+}
+
+#contact-form, #products {
+  flex-direction: column;
+}
+
+#contact-form input {
+  margin-left: 20px;
+}
+
+#contact-form textarea {
+  width: 430px;
+}
+
+#submit-btn {
+  margin: 35px;
+  width: 150px;
+}
+
+.cart-img {
+  width: 250px;
+}

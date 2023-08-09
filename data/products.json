@@ -1,0 +1,175 @@
+{
+    "products": [
+        {
+            "name": "asymmetrical-top",
+            "type": "top",
+            "url": "imgs/asymmetrical-top.jpg",
+            "price": "10",
+            "color": "green",
+            "size": "large",
+            "condition": "good"
+        },
+        {
+            "name": "black-bodysuit",
+            "type": "top",
+            "url": "imgs/black-bodysuit.jpg",
+            "price": "10",
+            "color": "black",
+            "size": "small",
+            "condition": "excellent"
+        },
+        {
+            "name": "linen-blend-cargo-pants",
+            "type": "bottom",
+            "url": "imgs/linen-blend-cargo-pants.jpg",
+            "price": "25",
+            "color": "black",
+            "size": "small",
+            "condition": "excellent"
+        },
+        {
+            "name": "linen-blend-wide-leg-pants",
+            "type": "bottom",
+            "url": "imgs/linen-blend-wide-leg-pants.jpg",
+            "price": "20",
+            "color": "white",
+            "size": "small",
+            "condition": "excellent"
+        },
+        {
+            "name": "beige-tank-top",
+            "type": "top",
+            "url": "imgs/beige-tank-top.jpg",
+            "price": "10",
+            "color": "beige",
+            "size": "large",
+            "condition": "excellent"
+        },
+        {
+            "name": "linen-palazzo-pants",
+            "type": "bottom",
+            "url": "imgs/linen-palazzo-pants.jpg",
+            "price": "15",
+            "color": "black",
+            "size": "small",
+            "condition": "good"          
+        },
+        {
+            "name": "black-tank-top",
+            "type": "top",
+            "url": "imgs/black-tank-top.jpg",
+            "price": "15",
+            "color": "black",
+            "size": "medium",
+            "condition": "excellent"
+        },
+        {
+            "name": "nylon-blend-parachute-pants",
+            "type": "bottom",
+            "url": "imgs/nylon-blend-parachute-pants.jpg",
+            "price": "30",
+            "color": "pink",
+            "size": "small",
+            "condition": "excellent"         
+        },
+        {
+            "name": "satin-effect-cargo-pants",
+            "type": "bottom",
+            "url": "imgs/satin-effect-cargo-pants.jpg",
+            "price": "25",
+            "color": "black",
+            "size": "small",
+            "condition": "excellent"          
+        },
+        {
+            "name": "cut-out-knit-top",
+            "type": "top",
+            "url": "imgs/cut-out-knit-top.jpg",
+            "price": "10",
+            "color": "white",
+            "size": "medium",
+            "condition": "excellent"          
+        },
+        {
+            "name": "cut-out-top",
+            "type": "top",
+            "url": "imgs/cut-out-top.jpg",
+            "price": "15",
+            "color": "white",
+            "size": "small",
+            "condition": "excellent"      
+        },
+        {
+            "name": "knotted-top",
+            "type": "top",
+            "url": "imgs/knotted-top.jpg",
+            "price": "15",
+            "color": "white",
+            "size": "small",
+            "condition": "excellent"        
+        },
+        {
+            "name": "open-back-top",
+            "type": "top",
+            "url": "imgs/open-back-top.jpg",
+            "price": "20",
+            "color": "white",
+            "size": "small",
+            "condition": "excellent"        
+        },
+        {
+            "name": "rib-bandeau-top",
+            "type": "top",
+            "url": "imgs/rib-bandeau-top.jpg",
+            "price": "10",
+            "color": "black",
+            "size": "large",
+            "condition": "excellent"
+        },
+        {
+            "name": "ruffle-tank-top",
+            "type": "top",
+            "url": "imgs/ruffle-tank-top.jpg",
+            "price": "10",
+            "color": "grey",
+            "size": "small",
+            "condition": "good"          
+        },
+        {
+            "name": "ruffled-knit-top",
+            "type": "top",
+            "url": "imgs/ruffled-knit-top.jpg",
+            "price": "15",
+            "color": "white",
+            "size": "medium",
+            "condition": "excellent"          
+        },
+        {
+            "name": "seamless-cut-out-top",
+            "type": "top",
+            "url": "imgs/seamless-cut-out-top.jpg",
+            "price": "20",
+            "color": "black",
+            "size": "small",
+            "condition": "excellent"          
+        },
+        {
+            "name": "square-neck-crop-top",
+            "type": "top",
+            "url": "imgs/square-neck-crop-top.jpg",
+            "price": "10",
+            "color": "pink",
+            "size": "small",
+            "condition": "good"          
+        },
+        {
+            "name": "white-tank-top",
+            "type": "top",
+            "url": "imgs/white-tank-top.jpg",
+            "price": "15",
+            "color": "white",
+            "size": "large",
+            "condition": "excellent"          
+        }
+    ]
+}

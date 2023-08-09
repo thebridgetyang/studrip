@@ -1,0 +1,28 @@
+{
+    "questions": [
+        {
+            "question": "When should my order arrive?",
+            "answer": "You should expect your order to ship within 3-5 business days."
+        },
+        {
+            "question": "What is the return policy?",
+            "answer": "You can return your products within 30 days of the delivery date."
+        },
+        {
+            "question": "Do you guys verify the quality of all the items?",
+            "answer": "Yes, we only sell second-hand products that are of good or excellent quality!"
+        },
+        {
+            "question": "How can I sell my clothes to you guys?",
+            "answer": "Deposit your clothes in the secure Studrip dropoff bin at your university."
+        },
+        {
+            "question": "Are there plus sizes available?",
+            "answer": "We have clothing available in all sizes!"
+        },
+        {
+            "question": "Do you currently have to be a student to shop at this store?",
+            "answer": "Yes, you can only make an account if you have a student email."
+        }
+    ]
+}

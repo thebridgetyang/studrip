@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!-- 
+  Name: Bridget Yang
+  CS 132 Spring 2023
+  Date: May 24, 2023
+  This is the index.html page for my student clothing e-commerce store called Studrip.
+  This page shows all the available clothing items in the store. The overall theme of 
+  the website is modern and chic.
+-->
+<html lang="en-US">
+  <head>
+    <title>Student Clothing E-Commerce Store</title>
+    <meta charset="utf-8">
+    <link href="styles.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;700&display=swap" rel="stylesheet">
+    <script src="helpers.js"></script>
+    <script defer src="index.js"></script>
+  </head>
+  <body>
+    <main>
+      <h1>Studrip</h1>
+      <a href="cart.html">
+        <!-- Image Source: https://commons.wikimedia.org/wiki/File:Shopping-cart-transparent-icon.png -->
+        <img id="cart" src="imgs/cart-icon.png" alt="Cart Icon">
+      </a>
+      <p>Get that degree in style &#x1F60E;&#x1f485;</p>
+      <a href="faq.html" class="other-page">FAQ</a>
+      <a href="contact.html" class="other-page">Contact Us</a>
+      <a href="promotions.html" class="other-page">Promotions</a>
+      <div id="search">
+        <p>FILTER BY:</p>
+        <input list="product-filter" id="filter-dropdown-menu">
+        <datalist id="product-filter">
+          <option value="top">top</option>
+          <option value="bottom">bottom</option>
+          <option value="condition: good">condition: good</option>
+          <option value="condition: excellent">condition: excellent</option>
+          <option value="small">small</option>
+          <option value="medium">medium</option>
+          <option value="large">large</option>
+        </datalist>
+      </div>
+      <div id="products">
+      </div>
+    </main>
+    <footer>
+      <p>Bridget Yang &copy; 2023</p>
+    </footer>
+  </body>
+</html>

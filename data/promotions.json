@@ -1,0 +1,24 @@
+{
+    "promotions": [
+        {
+            "time": "6/18/2023",
+            "discount": "Treat yourself on your father's coin! Every father wants to spoil their children. Take 30% off everything!"
+        },
+        {
+            "time": "6/19/2023",
+            "discount": "Take 21 percent off all tops for one of our CEO's (Angel Wang) birthday!"
+        },
+        {
+            "time": "7/4/2023",
+            "discount": "Buy one item and get 3 free for FOURTH of July!"
+        },
+        {
+            "time": "9/4/2023",
+            "discount": "For Labor Day, take a break and buy one get one free!"
+        },
+        {
+            "time": "9/19/2023",
+            "discount": "Take 21 percent off all bottoms for one of our CEO's (Bridget Yang) birthday!"
+        }
+    ]
+}
